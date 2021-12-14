@@ -1,5 +1,5 @@
 import type { NextPage } from "next";
-import { FormEvent, useCallback, useMemo, useState } from "react";
+import { FormEvent, useCallback, useState } from "react";
 import { SearchResults } from "../components/SearchResults";
 
 type Product = {
